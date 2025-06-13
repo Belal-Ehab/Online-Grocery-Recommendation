@@ -11,7 +11,7 @@ This project builds a classification model to recommend groceries based on users
 
 ## Dataset
 
-The dataset is available on Kaggle: Instacart Market Basket Analysis: https://www.kaggle.com/datasets/yasserh/instacart-online-grocery-basket-analysis-dataset . 
+The dataset is available on Kaggle: Instacart Market Basket Analysis: https://www.kaggle.com/datasets/yasserh/instacart-online-grocery-basket-analysis-dataset 
 
 It includes:
 
